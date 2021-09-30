@@ -1,4 +1,4 @@
-# Lab3PHY3626
+# Day3
 
 Class Day3: Main
  
