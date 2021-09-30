@@ -1,6 +1,8 @@
 # Day3
 
 Class Day3: Main
+-Gồm các đối tượng Car
+-Các hàm getCar (áp dụng tính chất đa hình)
  
 Class Car: class cha
   -gồm các thuộc tính: engine(boolean), clinders(int), name(String), wheel(int);
